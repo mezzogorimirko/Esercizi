@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compilation>
+
+	<brano id="1">
+    <titolo>android</titolo>
+    <autore>pl</autore>
+    <genere>pdm</genere>
+	</brano>
+	
+	<brano id="2">
+    <titolo>java</titolo>
+    <autore>cl</autore>
+    <genere>pdm</genere>
+	</brano>
+	
+	<brano id="3">
+    <titolo>c++</titolo>
+    <autore>lp</autore>
+    <genere>rc</genere>
+	</brano>
+	
+</compilation>
