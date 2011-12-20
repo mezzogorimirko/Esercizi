@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:orientation="vertical" 
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent">
+
+<TextView android:text="Testo di default TextView1" 
+  android:id="@+id/testo1" 
+  android:layout_width="wrap_content" 
+  android:layout_height="wrap_content">
+</TextView>
+
+<Button android:text="Bottone 1" 
+android:id="@+id/bottone1" 
+android:layout_width="wrap_content"
+android:layout_height="wrap_content">
+</Button >
+
+<Button android:text="Bottone 2" 
+android:id="@+id/bottone2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content">
+</Button>
+
+<EditText android:id="@+id/EditText01"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:inputType="number"
+android:text="9944456789" />
+
+[/sourcecode]
+
+</LinearLayout>
